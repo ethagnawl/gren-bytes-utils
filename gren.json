@@ -3,7 +3,7 @@
     "platform": "common",
     "name": "ethagnawl/bytes-utils",
     "summary": "common helper functions for working with bytes (e.g. bytes-to-hex)",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "license": "MIT",
     "source-directories": [
         "src"
@@ -11,9 +11,6 @@
     "gren-version": "6.0.0 <= v < 7.0.0",
     "exposed-modules": [],
     "dependencies": {
-        "direct": {
-            "gren-lang/core": "6.0.0"
-        },
-        "indirect": {}
+        "gren-lang/core": "6.0.0 <= v < 7.0.0"
     }
 }
