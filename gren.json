@@ -1,0 +1,17 @@
+{
+    "type": "package",
+    "platform": "common",
+    "name": "ethagnawl/bytes-utils",
+    "version": "0.0.1",
+    "source-directories": [
+        "src"
+    ],
+    "gren-version": "0.6.0",
+    "exposed-modules": [],
+    "dependencies": {
+        "direct": {
+            "gren-lang/core": "6.0.0"
+        },
+        "indirect": {}
+    }
+}
