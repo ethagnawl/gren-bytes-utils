@@ -2,6 +2,7 @@
     "type": "package",
     "platform": "common",
     "name": "ethagnawl/bytes-utils",
+    "summary": "common helper functions for working with bytes (e.g. bytes-to-hex)",
     "version": "0.0.1",
     "source-directories": [
         "src"
