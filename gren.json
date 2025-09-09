@@ -3,7 +3,7 @@
     "platform": "common",
     "name": "ethagnawl/bytes-utils",
     "summary": "common helper functions for working with bytes (e.g. bytes-to-hex)",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "source-directories": [
         "src"
     ],
