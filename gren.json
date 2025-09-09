@@ -3,12 +3,12 @@
     "platform": "common",
     "name": "ethagnawl/bytes-utils",
     "summary": "common helper functions for working with bytes (e.g. bytes-to-hex)",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "license": "MIT",
     "source-directories": [
         "src"
     ],
-    "exposed-modules": [],
+    "exposed-modules": ["BytesUtils"],
     "gren-version": "0.6.0 <= v < 0.7.0",
     "dependencies": {
         "gren-lang/core": "7.0.0 <= v < 8.0.0"
